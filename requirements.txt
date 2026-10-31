@@ -1,0 +1,4 @@
+duckdb
+numpy
+tzdata
+MetaTrader5

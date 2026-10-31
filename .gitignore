@@ -1,0 +1,6 @@
+.venv/
+*.duckdb
+.env
+__pycache__/
+ticks_csv/
+old_scripts/
